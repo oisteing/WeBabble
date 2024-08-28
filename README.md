@@ -1,1 +1,1 @@
-These are files associated with the WeBabble talk simulator.
+These are files associated with the WeBabble talk simulator article.
